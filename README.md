@@ -16,14 +16,12 @@
 I enjoy building **large-scale backend systems**, **infrastructure**, and **networking software**.
 
 Most of what I build revolves around:
-
 - High-performance server infrastructure
 - Distributed systems
 - Cloud platforms & automation
 - Developer tooling
 
 Currently spending way too much time researching:
-
 - Anycast networking
 - Edge infrastructure
 - Lowest possible latency networking for minecraft
