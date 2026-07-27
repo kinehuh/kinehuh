@@ -95,5 +95,5 @@ Currently spending way too much time researching:
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=150&section=footer&text=Building%20the%20next%20generation%20of%20Minecraft%20Infrastructure.&fontSize=22&fontColor=cdd6f4"/>
-
+My  GitHub is pretty dead you're lucky if you see this
 </div>
