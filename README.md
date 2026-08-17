@@ -66,7 +66,7 @@ Currently spending way too much time researching:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,cs,python,ts,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/>
 
 <br/>
 
