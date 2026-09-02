@@ -4,11 +4,9 @@
 
 ### 👋 Hey, I'm Kine
 
-I build large-scale backend systems, infrastructure, and networking software.
-
-**Focus areas:** high-performance server infrastructure · distributed systems · cloud platforms & automation · developer tooling
-
-**Currently digging into:** anycast networking · edge infrastructure · low-latency networking for Minecraft · Kubernetes
+I build systems & software.
+**Focus areas:** performance infrastructure · distributed systems · cloud platforms & automation · developer tooling
+**Learning:** anycast networking · low-latency networking for Minecraft · Kubernetes
 
 <br/>
 
