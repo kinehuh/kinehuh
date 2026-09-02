@@ -25,9 +25,12 @@ I build systems & software.
 ### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/>
 
+
 <img src="https://skillicons.dev/icons?i=spring,nodejs,docker,kubernetes,linux,nginx&theme=dark"/>
 
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
+
 
 <img src="https://skillicons.dev/icons?i=cloudflare,github,git,ubuntu,docker,kubernetes,prometheus,grafana&theme=dark"/>
 
