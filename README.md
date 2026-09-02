@@ -5,7 +5,9 @@
 ### 👋 Hey, I'm Kine
 
 I build systems & software.
+
 **Focus areas:** performance infrastructure · distributed systems · cloud platforms & automation · developer tooling
+
 **Learning:** anycast networking · low-latency networking for Minecraft · Kubernetes
 
 <br/>
