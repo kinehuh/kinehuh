@@ -6,7 +6,7 @@
 
 I build systems & software.
 
-**Focus areas:** performance infrastructure · distributed systems · cloud platforms & automation · developer tooling
+**Focus areas:** performance infrastructure · distributed systems · cloud platforms & automation · tooling
 
 **Learning:** anycast networking · low-latency networking for Minecraft · Kubernetes
 
@@ -23,17 +23,12 @@ I build systems & software.
 <br/><br/>
 
 ### 🛠️ Tech Stack
-
-**Languages**
 <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/>
 
-**Backend**
 <img src="https://skillicons.dev/icons?i=spring,nodejs,docker,kubernetes,linux,nginx&theme=dark"/>
 
-**Databases**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
 
-**Infrastructure**
 <img src="https://skillicons.dev/icons?i=cloudflare,github,git,ubuntu,docker,kubernetes,prometheus,grafana&theme=dark"/>
 
 <br/>
