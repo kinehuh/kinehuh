@@ -26,7 +26,7 @@ I build systems & software.
 <table>
 <tr>
 <td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=java,go,rust,python,ts,js&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
