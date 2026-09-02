@@ -15,13 +15,13 @@ I build systems & software.
 <img src="https://img.shields.io/badge/GitHub-kinehuh-cdd6f4?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-@devkine-5865F2?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Discord-@kinehuh-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 <img src="https://img.shields.io/badge/Minecraft-Infrastructure-7aa2f7?style=for-the-badge"/>
 
 <br/><br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table>
 <tr>
