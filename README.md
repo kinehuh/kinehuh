@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=220&text=KINE&fontSize=80&fontColor=cdd6f4&animation=fadeIn&desc=Infrastructure%20Engineer%20•%20Minecraft%20Backend%20•%20Distributed%20Systems&descSize=18&descAlignY=68&descColor=a6adc8" width="100%"/>
 
 ### 👋 Hey, I'm Kine
@@ -23,14 +22,25 @@ I build systems & software.
 <br/><br/>
 
 ### 🛠️ Tech Stack
-**Languages:**
-<img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/>
-**Backend:**
-<img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,linux,nginx&theme=dark"/>
-**Databases:**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/>
-**Infrastructure:**
-<img src="https://skillicons.dev/icons?i=cloudflare,github,git,ubuntu,docker,kubernetes,prometheus,grafana&theme=dark"/>
+
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,go,rust,cpp,cs,python,ts,js&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,linux,nginx&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Infrastructure</b></td>
+<td><img src="https://skillicons.dev/icons?i=cloudflare,github,git,ubuntu,docker,kubernetes,prometheus,grafana&theme=dark"/></td>
+</tr>
+</table>
 
 <br/>
 
