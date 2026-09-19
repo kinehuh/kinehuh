@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=220&text=KINE&fontSize=80&fontColor=cdd6f4&animation=fadeIn&desc=Infrastructure%20Engineer%20•%20Minecraft%20Backend%20•%20Distributed%20Systems&descSize=18&descAlignY=68&descColor=a6adc8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=220&text=KINE&fontSize=80&fontColor=cdd6f4&animation=fadeIn&desc=Performance%20Engineer%20•%20Minecraft%20Systems%20•%20Networking&descSize=18&descAlignY=68&descColor=a6adc8" width="100%"/>
 
 ### 👋 Hey, I'm Kine
 
 I build systems & software.
 
-**Focus areas:** performance infrastructure · distributed systems · cloud platforms & automation · tooling
+**Focus areas:** performance & optimization · rendering · backend systems · networking · anti-cheat
 
-**Learning:** anycast networking · low-latency networking for Minecraft · Kubernetes
+**Learning:** low-latency Minecraft networking · routing · client-side systems
 
 <br/>
 
@@ -17,7 +17,7 @@ I build systems & software.
 <a href="#">
 <img src="https://img.shields.io/badge/Discord-@kinehuh-5865F2?style=for-the-badge&logo=discord"/>
 </a>
-<img src="https://img.shields.io/badge/Minecraft-Infrastructure-7aa2f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Minecraft-Systems-7aa2f7?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -44,7 +44,7 @@ I build systems & software.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=150&section=footer&text=Building%20the%20next%20generation%20of%20Minecraft%20Infrastructure.&fontSize=22&fontColor=cdd6f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7aa2f7&height=150&section=footer&text=Building%20better%20Minecraft%20systems.&fontSize=22&fontColor=cdd6f4" width="100%"/>
 
 *My GitHub is pretty dead, you're lucky if you see this.*
 
