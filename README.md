@@ -4,7 +4,9 @@
 ### 👋 Hey, I'm Kine
 
 I build systems & software.
+
 **Focus areas:** performance & optimization · rendering · backend · networking · anti-cheat
+
 **Learning:** Minecraft x Netcode
 
 <br/>
